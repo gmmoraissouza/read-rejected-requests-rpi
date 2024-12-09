@@ -1,4 +1,4 @@
-# Reading RPI magazine
+# Read Rejected Requests RPI in Python
 
 Este repositório contém um script em Python que automatiza a análise de revistas do INPI (RPI - Revista da Propriedade Industrial). Ele identifica casos de **indeferimento de pedidos de registro de marcas** e os organiza em um arquivo Excel para facilitar o acompanhamento e a tomada de decisão.
 
