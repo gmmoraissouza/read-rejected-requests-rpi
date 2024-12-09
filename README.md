@@ -62,5 +62,4 @@ Contribuições são bem-vindas! Caso encontre problemas ou deseje adicionar mel
 
 Se você tiver dúvidas ou sugestões, entre em contato:
 
-- **Autor:** Guilherme Matheus
-- **LinkedIn:** [Guilherme](https://www.linkedin.com/in/gmmoraissouza/))
+- **Autor:** [Guilherme Matheus](https://www.linkedin.com/in/gmmoraissouza/)
