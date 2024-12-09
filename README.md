@@ -1,4 +1,4 @@
-# RPI Mark Indecision Analyzer
+# Reading RPI magazine
 
 Este repositório contém um script em Python que automatiza a análise de revistas do INPI (RPI - Revista da Propriedade Industrial). Ele identifica casos de **indeferimento de pedidos de registro de marcas** e os organiza em um arquivo Excel para facilitar o acompanhamento e a tomada de decisão.
 
@@ -57,9 +57,6 @@ pip install -r requirements.txt
 
 Contribuições são bem-vindas! Caso encontre problemas ou deseje adicionar melhorias, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Consulte o arquivo `LICENSE` para mais detalhes.
 
 ## Contato
 
@@ -67,4 +64,3 @@ Se você tiver dúvidas ou sugestões, entre em contato:
 
 - **Autor:** Guilherme Matheus
 - **LinkedIn:** [Guilherme](https://www.linkedin.com/in/gmmoraissouza/))
-- **E-mail:** [gmmoraissouza10@gmail.com](mailto:gmmoraissouza10@gmail.com)
